@@ -1,0 +1,31 @@
+.table{
+    border-radius: 20 !important;
+    width: 80vw !important;
+}
+tbody{
+    background-color:  #ffff !important;
+}
+tr{
+    background-color: transparent !important;
+    background-image:linear-gradient(120deg,#ff4040 18.56%,#a20bd8 98.01%) !important;
+}
+td{
+    color: white !important;
+    font-weight: bold  !important;
+}
+.r1{
+    color: white !important;
+    font-weight: bold  !important;
+}
+.thead{
+    background-image:linear-gradient(120deg,#ff4040 18.56%,#a20bd8 98.01%) !important;
+    background-color: transparent !important;
+}
+.bgc{
+    background-image:linear-gradient(120deg,#ff4040 18.56%,#a20bd8 98.01%) !important;
+    color: white !important; 
+
+}
+.name:hover{
+   text-decoration: none;
+}
